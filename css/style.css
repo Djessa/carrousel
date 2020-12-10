@@ -1,0 +1,15 @@
+#carrousel{
+    position:relative;
+    height:200px;
+    width:400px;
+    margin:auto;
+}
+#carrousel ul li{
+    position:absolute;
+    top:20;
+    left:0;
+}
+#carrousel .controls {
+    position:absolute;
+    top:0px;
+}
